@@ -76,8 +76,8 @@ header .nav-item a:hover::after{
 .grid-posts .card-img-top {
     max-height: 350px;
 }
-.LOAD-MORE {
-    padding: 1REM 2REM;
+.load-more {
+    padding: 1rem 2rem;
     border-color: #626262;
     border-radius: 0;
 }
@@ -88,7 +88,7 @@ header .nav-item a:hover::after{
     background-color: #f0f0f0;
     padding: 70px 0;
 }
-signup h3{
+.signup h3{
     color: #333;
 }
 .signup form{
